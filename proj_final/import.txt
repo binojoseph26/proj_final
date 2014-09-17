@@ -1,0 +1,1 @@
+imp username/password file=give file path tables=(spersonal,sacademic,tpersonal,toffice,feestr,feestatus,class,other)
